@@ -1,0 +1,3 @@
+metric,gate_30,gate_40,diff_pts,relative_lift_pct,z,p_value,boot_95ci_pts,prob_gate_40_better,mde_pts_80pct_power
+1-day retention,44.82,44.23,-0.59,-1.3,-1.78,0.0744,-1.25 to 0.06,0.035,0.93
+7-day retention,19.02,18.2,-0.82,-4.3,-3.16,0.0016,-1.34 to -0.31,0.001,0.73

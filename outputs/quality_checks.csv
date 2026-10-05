@@ -1,0 +1,6 @@
+check,failing_rows
+Duplicate user IDs,0
+Unknown version labels,0
+Missing values,0
+Negative game rounds,0
+Retention flags not 0/1,0
