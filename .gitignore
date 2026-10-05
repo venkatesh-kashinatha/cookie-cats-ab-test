@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# Download cookie_cats.csv from Kaggle (see README)
+data/raw/*.csv
+data/raw/*.zip
